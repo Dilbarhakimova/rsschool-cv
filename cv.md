@@ -27,3 +27,9 @@ let num2 = 10;
 let sum = num1 + num2;
 console.log(sum); // Вывод: 15
 ```
+
+##  Education
+Studying at school
+
+## English 
+Elementary 
