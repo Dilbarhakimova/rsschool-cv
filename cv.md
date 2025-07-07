@@ -7,3 +7,11 @@
 ### Email: dilbarhakimova2025@gmail.com
 ### GitHub: Dilbarhakimova
 
+## About me
+My name is Dilbar, i am from Uzbekistan - Tashkent. I am 16 years old and i study at school. Now i studying at RS-SCHOOL to be a Front-end developer and i try to go through all stages successfully. And of course , find a job in advance and get more experience and practice to become a professional  
+
+
+## My skills
+* Git
+* GitHub
+* VS Code  
